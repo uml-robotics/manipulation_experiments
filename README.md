@@ -3,8 +3,9 @@ This repo contains ROS packages in separate branches for testing two grasping al
 All testing was done on Ubuntu 16.04 w/ ROS Kinetic in Simulation and with a Real workstation. 
 
 ## Required ROS packages for the Gen3:
-* [uml_hri_nerve_armada_workstation](https://github.com/uml-robotics/uml_hri_nerve_armada_workstation)
-* [ros_kortex](https://github.com/Kinovarobotics/ros_kortex)
+* [uml_hri_nerve_armada_workstation](https://github.com/uml-robotics/uml_hri_nerve_armada_workstation) - More robot package hyperlinks can be found here
+* [uml-robotics/ros-kortex](https://github.com/uml-robotics/uml_hri_nerve_armada_workstation) - This package is used internally at the NERVE Center
+* [kinovarobotics/ros_kortex](https://github.com/Kinovarobotics/ros_kortex) - This package is the original ros_kortex package
 * [ros_kortex_vision](https://github.com/Kinovarobotics/ros_kortex_vision)
 * [kinova_ros](https://github.com/Kinovarobotics/kinova-ros)  
 More details here: https://github.com/uml-robotics/uml_hri_nerve_pick_and_place
